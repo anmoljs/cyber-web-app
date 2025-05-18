@@ -17,7 +17,7 @@ bun dev
 # Fonts
 This project uses [`google/font`](https://fonts.google.com/) to automatically optimize and load [Inter](https://vercel.com/font), a new font family for Vercel.
 
-## Features
+## Featuresq
 
 Product listings and detail pages
 
@@ -26,6 +26,4 @@ Responsive UI with Tailwind CSS
 Optimized performance with Next.js
 
 Instant global deployment via Vercel
-=======
-# cyber
->>>>>>> 625756671a225a4379a78c8ff4cc1c8c3e198995
+
