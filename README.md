@@ -17,7 +17,7 @@ bun dev
 # Fonts
 This project uses [`google/font`](https://fonts.google.com/) to automatically optimize and load [Inter](https://vercel.com/font), a new font family for Vercel.
 
-## Featuresq
+## Features
 
 Product listings and detail pages
 
