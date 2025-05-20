@@ -1,5 +1,9 @@
  # Cyber
+<<<<<<< HEAD
 Cyber is a modern  web application built with [Next.js](https://nextjs.org) and [Tailwind CSS](https://tailwindcss.com), designed for speed, responsiveness, and scalability. It is deployed seamlessly on [Vercel](https://vercel.com).
+=======
+ Cyber is a modern web application built with [Next.js](https://nextjs.org) and [Tailwind CSS](https://tailwindcss.com), designed for speed, responsiveness, and scalability. It is deployed seamlessly on [Vercel](https://vercel.com).
+>>>>>>> main
 
 ## Getting Started
 
@@ -17,6 +21,7 @@ bun dev
 # Fonts
 This project uses [`google/font`](https://fonts.google.com/) to automatically optimize and load [Inter](https://vercel.com/font), a new font family for Vercel.
 
+<<<<<<< HEAD
 ## Features
 
 Product listings and detail pages
@@ -27,3 +32,19 @@ Optimized performance with Next.js
 
 Instant global deployment via Vercel
 
+=======
+# Fonts
+
+This project uses google/font to automatically optimize and load Inter, a new font family for Vercel.
+
+## Features
+
+optimize with next js
+responsive UI with tailwind css
+product listing and detail page
+instant global deployment via vercel
+
+## Deploy on Vercel
+
+The easiest way to deploy your cyber web app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+>>>>>>> main
